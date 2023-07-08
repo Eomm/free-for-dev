@@ -818,6 +818,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [searchly.com](http://www.searchly.com/) — Free 2 indices and 20 MB storage
   * [pagedart.com](https://pagedart.com/) - AI search as a service the free tier includes 1000 Documents, 50000 searches. Larger free tiers are possible for worthwhile projects.
   * [Meilisearch](https://www.meilisearch.com/) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow. Free plan includes 100K documents and 10K searches/month.
+  * [Orama Search](https://oramasearch.com/) - An open-source, fast, in-memory, typo-tolerant, full-text search engine written in TypeScript. The open-source core module is free and production ready. The cloud version has a monthly cost.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
